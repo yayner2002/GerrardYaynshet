@@ -1,0 +1,27 @@
+*{
+    /* margin: 0; */
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: auto;
+}
+#main{
+    height: 100%;
+    width: 80%;
+    margin: auto;
+    margin-top: 10vh;
+    text-align: center;
+}
+#tribute-info{
+    text-align: left;
+}
+#img-div{
+    position: relative;
+}
+#image{
+    height: auto;
+    max-width: 100%;
+    display: block;
+    align-items: center;
+}
